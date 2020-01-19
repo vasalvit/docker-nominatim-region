@@ -1,0 +1,6 @@
+# avoid CR-LF conversion
+*.sh                binary
+
+Dockerfile          text
+nominatim.conf      text
+readme.md           text
